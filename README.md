@@ -1,6 +1,6 @@
-**# Data Analytics Projects **
+# Data Analytics Projects 
 
-## House Price Prediction (Ames Housing)
+** ## House Price Prediction (Ames Housing) **
 File: Machine Learning Project.ipynb
 
 Predicting house SalePrice using Machine Learning in Python.
