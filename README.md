@@ -11,4 +11,4 @@ Predicting house SalePrice using Machine Learning in Python.
 - Tools: Python, Pandas, Scikit-learn, Jupyter Notebook
 
 
-author:Shabana Sherin RV
+author: Shabana Sherin RV
